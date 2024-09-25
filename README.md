@@ -11,7 +11,7 @@ chmod -R +x ~/.scripts/TTR-Scripts
 ## To Make Your Own:
 ### 1. Create a sub-directory.
 Example:
-`mkdir ~/.scripts/TTR-Scripts//TTR-Popup/Graphs/
+`mkdir ~/.scripts/TTR-Scripts//TTR-Popup/Graphs/`
 
 ### 2. Add whatever images that you want to popup to that `Graph` directory. Remember that images are shown in numerical and Alphabetical order so be sure to name the images accordingly.
 
