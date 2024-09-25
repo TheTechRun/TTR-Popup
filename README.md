@@ -8,9 +8,9 @@ git clone https://github.com/TheTechRun/TTR-Popup
 chmod -R +x ~/.scripts/TTR-Scripts
 ```
 
-# Pre-installed:
-The `launch.sh` in the Keyboard directory will launch the `mirayoku` and `RSTHD` Keyboard Layout images.
-The `launch.sh` in the Vim directory will launch the `Vim Motion` images. 
+## Pre-installed:
+### The `launch.sh` in the Keyboard directory will launch the `mirayoku` and `RSTHD` Keyboard Layout images.
+### The `launch.sh` in the Vim directory will launch the `Vim Motion` images. 
 
 
 ## Make Your Own:
