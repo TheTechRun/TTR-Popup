@@ -18,7 +18,7 @@ chmod -R +x ~/.scripts/TTR-Scripts
 Example:
 `mkdir ~/.scripts/TTR-Scripts//TTR-Popup/Graphs/`
 
-### 2. Add whatever images that you want to popup to that `Graph` directory. Remember that images are shown in numerical and Alphabetical order so be sure to name the images accordingly.
+### 2. Add whatever images that you want to popup to that `Graph` directory. Remember that images are shown in Numerical and Alphabetical order so be sure to name the images accordingly.
 
 ### 3. run the `generator.sh` script. This will create a `launch.sh` script in the new `Graph` directory. Now that script will launch the images in your `graph` directory. Scroll up and down or right and left. 
 
